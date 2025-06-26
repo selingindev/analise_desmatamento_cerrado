@@ -4,7 +4,7 @@ Este projeto tem como objetivo aplicar algoritmos de aprendizado de máquina, co
 
 ## 📁 Dados Utilizados
 
-Os dados foram extraídos de bases públicas disponibilizadas pelo governo federal, contendo mais de 35 mil registros de alertas de desmatamento e queimadas no Cerrado. Os arquivos shapefiles (`.shp`, `.dbf`, `.prj`, `.shx`) contêm informações georreferenciadas sobre localidade, data e tipo de ocorrência.
+Os dados foram extraídos de bases públicas disponibilizadas pelo governo federal, contendo mais de 100 mil registros de alertas de desmatamento e queimadas no Cerrado. Os arquivos shapefiles (`.shp`, `.dbf`, `.prj`, `.shx`) contêm informações georreferenciadas sobre localidade, data e tipo de ocorrência.
 
 Além disso, foram incorporadas variáveis contextuais, como presença em Unidades de Conservação, para enriquecer a modelagem.
 
